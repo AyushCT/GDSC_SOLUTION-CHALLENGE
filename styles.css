@@ -1,0 +1,76 @@
+
+.btn-login{
+    background-color: #008BDC;
+    text-decoration:none;
+    padding-right:40px;
+    padding-left:40px;
+    padding-top:7px;
+    padding-bottom:7px;
+    color:white;
+    border-radius: 30px;
+}
+.btn-donor{
+    background-color:#6300dc;
+   
+    text-decoration:none;
+    padding-right:80px;
+    padding-left:80px;
+    padding-top:15px;
+    padding-bottom:15px;
+    
+    color:white;
+    border-radius: 30px;
+
+}
+.btn-receiver{
+    background-color:transparent;
+    
+    text-decoration:none;
+    padding-right:80px;
+    padding-left:80px;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:#6300dc;
+    border-radius: 30px;
+    border: 1px solid #6300dc;
+
+}
+.card{
+    background-color: transparent;
+}
+.icon-bar {
+    width: 90px;
+    height:758px;
+    background-color: #6300dc;
+    margin-left:-13px;
+  }
+  
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #6300dc;
+  }
+  
+  .active {
+    background-color: #be9ce7;
+  }
+  .btn-donate{
+    background-color:transparent;
+    
+    text-decoration:none;
+    padding-right:80px;
+    padding-left:80px;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:#fff;
+    border-radius: 30px;
+    border: 1px solid #fff;
+   
+  }

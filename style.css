@@ -1,0 +1,37 @@
+
+.btn-login{
+    background-color: #008BDC;
+    text-decoration:none;
+    padding-right:40px;
+    padding-left:40px;
+    padding-top:7px;
+    padding-bottom:7px;
+    color:white;
+    border-radius: 30px;
+}
+.btn-donor{
+    background-color:#6300dc;
+   
+    text-decoration:none;
+    padding-right:70px;
+    padding-left:70px;
+    padding-top:15px;
+    padding-bottom:15px;
+    
+    color:white;
+    border-radius: 30px;
+
+}
+.btn-receiver{
+    background-color:transparent;
+    
+    text-decoration:none;
+    padding-right:70px;
+    padding-left:70px;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:#6300dc;
+    border-radius: 30px;
+    border: 1px solid #6300dc;
+
+}
